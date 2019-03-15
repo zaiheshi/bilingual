@@ -1,0 +1,3 @@
+model : ./model_step_1.pt
+src   :  ./data/task3a.dev.src
+tgt   :  ./data/task3a.dev.mt

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2713b879-55ac-4bc3-9b83-824727571f5c" name="opennmt-1.0" url="http://192.168.126.149">
+        <fileTransfer host="192.168.126.149" port="22" rootFolder="/data/qtxue/opennmt-simple-1.0" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

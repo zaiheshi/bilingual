@@ -1,0 +1,9 @@
+train_src           : ./data/task3a.train.src
+train_tgt           : ./data/task3a.train.mt
+valid_src           : ./data/task3a.dev.src
+valid_tgt           : ./data/task3a.dev.mt
+save_data           : ./data/save
+src_vocab_size      : 30000
+tgt_vocab_size      : 30000
+src_seq_length      : 150
+tgt_seq_length      : 150
